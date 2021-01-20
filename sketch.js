@@ -50,6 +50,8 @@ function draw(){
     pig1.display();
     log1.display();
 
+    //gswkgddwgdlwhdwldgwhjkjej
+
     box3.display();
     box4.display();
     pig3.display();
