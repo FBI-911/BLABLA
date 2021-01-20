@@ -50,7 +50,15 @@ function draw(){
     pig1.display();
     log1.display();
 
-    //gswkgddwgdlwhdwldgwhjkjej
+    //327387523573-452-572057347538576
+    ///s/s/s//s/s/s/
+    /*
+
+
+    oooooooooooooooooooo
+
+
+    */
 
     box3.display();
     box4.display();
